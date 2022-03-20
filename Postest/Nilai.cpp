@@ -8,12 +8,12 @@ int main(){
 	cin>>nilai;
 
 	if (nilai >= 65){
-		cout<<"Selamat Anda LULUS!"<<endl;
+		cout<<"Selamat Anda dinyatakan LULUS!"<<endl;
 	}
 	else 
 	{
 		
-	cout<<"Maaf anda Belum LULUS!"<<endl;
+	cout<<"Maaf Tetapi anda Belum LULUS!"<<endl;
 	
 }
 
